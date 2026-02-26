@@ -11,4 +11,7 @@ TI - 2F
 1. Praktikum 2.1
 ![alt text](/imgjobsheet3/prak2.1.png)
 
-2. Praktikum 2.1
+2. Praktikum 2.2
+![alt text](/imgjobsheet3/prak2.2.png)
+
+3. Praktikum 2.3

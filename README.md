@@ -73,3 +73,9 @@ TI - 2F
 
 ## Eloquent ORM
 1. Praktikum 6
+- view user <br>
+![alt text](/imgjobsheet3/viewuser.png) <br>
+- add user
+![alt text](/imgjobsheet3/adduser.png)
+- update user
+![alt text](/imgjobsheet3/updateuser.png)

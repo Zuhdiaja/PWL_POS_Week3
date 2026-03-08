@@ -42,3 +42,16 @@ TI - 2F
 ![alt text](imgjobsheet4/prak2.9.png)
 
 
+## Retreiving Or Creating Models
+1. Praktikum 2.4 <br>
+
+- firstOfCreate <br>
+![alt text](imgjobsheet4/prak2.10.png)
+- firstOfCreate (create) <br>
+![alt text](imgjobsheet4/prak2.11.png)
+- fistOfNew <br>
+![alt text](imgjobsheet4/prak2.12.png)
+- fistOfNew (create) <br>
+![alt text](imgjobsheet4/prak2.13.png)
+- fistOfNew (save) <br>
+![alt text](imgjobsheet4/prak2.14.png)

@@ -68,3 +68,19 @@ TI - 2F
 - wasChanged <br>
 ![alt text](imgjobsheet4/prak2.16.png)
 
+
+## Create, Read, Update, Delete (CRUD)
+1. Praktikum 2.6 <br>
+
+- view CRUD <br>
+![alt text](imgjobsheet4/prak2.17.png)
+- View create <br>
+![alt text](imgjobsheet4/prak2.18.png)
+- create <br>
+![alt text](imgjobsheet4/prak2.19.png)
+- view edit (edit) <br>
+![alt text](imgjobsheet4/prak2.20.png)
+- edit (hasil) <br>
+![alt text](imgjobsheet4/prak2.21.png)
+- delete ID 17 <br>
+![alt text](imgjobsheet4/prak2.22.png)

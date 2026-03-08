@@ -11,6 +11,7 @@ TI - 2F
 - create user 2 (terjadi eror karena $password dihapus di fillable)<br>
 ![alt text](/imgjobsheet4/prak1.2.png)
 
+
 ## Retrieving Single Models
 1. Praktikum 2.1 <br>
 
@@ -25,6 +26,7 @@ TI - 2F
 - find id findOr eror <br>
 ![alt text](imgjobsheet4/prak2.5.png)
 
+
 ## Not Found Exceptions
 1. Praktikum 2.2 <br>
 
@@ -32,6 +34,7 @@ TI - 2F
 ![alt text](imgjobsheet4/prak2.6.png)
 - firstOrFail 2 eror<br>
 ![alt text](imgjobsheet4/prak2.7.png)
+
 
 ## Retreiving Aggregrates
 1. Praktikum 2.3 <br>
@@ -55,3 +58,13 @@ TI - 2F
 ![alt text](imgjobsheet4/prak2.13.png)
 - fistOfNew (save) <br>
 ![alt text](imgjobsheet4/prak2.14.png)
+
+
+## Attribute Changes
+1. Praktikum 2.5 <br>
+
+- isDirty <br>
+![alt text](imgjobsheet4/prak2.15.png)
+- wasChanged <br>
+![alt text](imgjobsheet4/prak2.16.png)
+

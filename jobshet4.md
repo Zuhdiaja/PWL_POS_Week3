@@ -84,3 +84,12 @@ TI - 2F
 ![alt text](imgjobsheet4/prak2.21.png)
 - delete ID 17 <br>
 ![alt text](imgjobsheet4/prak2.22.png)
+
+
+## Relationships
+1. Praktikum 2.7 <br>
+
+- belongsTo (view DD, saya tambahkan LevelModel.php karena tidak ada relasi LevelModel di jobsheet) <br>
+![alt text](imgjobsheet4/prak2.23.png)
+- View  <br>
+![alt text](imgjobsheet4/prak2.24.png)
